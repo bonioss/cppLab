@@ -1,0 +1,3 @@
+C:/Users/slash/CLionProjects/studia1/cmake-build-debug/CMakeFiles/studia1.dir
+C:/Users/slash/CLionProjects/studia1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/slash/CLionProjects/studia1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
